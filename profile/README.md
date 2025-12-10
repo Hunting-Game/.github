@@ -1,7 +1,7 @@
 # Hunting Game
 
 <p align="center">
-  <img src="assets/icon.png" alt="Hunting Game logo" width="100" />
+  <img src="/assets/icon.png" alt="Hunting Game logo" width="100" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/image_1.png" alt="Screenshot 1" width="180" />
-  <img src="assets/image_2.png" alt="Screenshot 2" width="180" />
-  <img src="assets/image_3.png" alt="Screenshot 3" width="180" />
+  <img src="/assets/image_1.png" alt="Screenshot 1" width="180" />
+  <img src="/assets/image_2.png" alt="Screenshot 2" width="180" />
+  <img src="/assets/image_3.png" alt="Screenshot 3" width="180" />
 </p>
 
 ## About
