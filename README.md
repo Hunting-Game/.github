@@ -1,7 +1,7 @@
 # Hunting Game
 
 <p align="center">
-  <img src="assets/images/icon.png" alt="Hunting Game logo" width="100" />
+  <img src="assets/icon.png" alt="Hunting Game logo" width="100" />
 </p>
 
 <p align="center">
